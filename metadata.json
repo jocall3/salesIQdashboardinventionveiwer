@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "SalesIQ Intelligence",
+  "description": "High-fidelity AI Sales Coaching and Call Analysis Platform"
+}
